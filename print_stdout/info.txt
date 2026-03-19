@@ -1,0 +1,1 @@
+lea -> Load effective address. calculates a memory address and stores it in a register without accessing the memory
